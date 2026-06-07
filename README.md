@@ -1,6 +1,8 @@
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCA8FC,100:DCA8FC&height=220&section=header&text=Ryu%20Raccoon&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Busan%2C%20KR&descAlignY=55&descSize=18&descColor=DCA8FC" width="100%" />
 
-안녕하세요, 빠르고 정확하게 실행하는 백엔드 개발자 Raccoon 입니다.
+안녕하세요, 빠르고 정확하게 실행하는 백엔드 개발자 Raccoon 입니다.<br>
 Java/Spring 기반 서버 개발/운영, 로컬 LLM 인프라, QA, 그리고 업무 자동화에 관심이 많습니다.
 
 ---
@@ -15,7 +17,7 @@ Java/Spring 기반 서버 개발/운영, 로컬 LLM 인프라, QA, 그리고 업
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Spring Modulith](https://img.shields.io/badge/Spring%20Modulith-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Modulith](https://img.shields.io/badge/Spring%20Modulith-6DB33F?style=flat-square&logo=spring&logoColor=white) <br>
 ![Querydsl](https://img.shields.io/badge/Querydsl-0769AD?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
@@ -63,3 +65,4 @@ Java/Spring 기반 서버 개발/운영, 로컬 LLM 인프라, QA, 그리고 업
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:code.raccoon.ryu@gmail.com)
 
 ---
+</div>
